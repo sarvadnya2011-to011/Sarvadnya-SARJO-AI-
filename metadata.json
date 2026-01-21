@@ -1,0 +1,9 @@
+{
+  "name": "Sarjo AI Studio",
+  "description": "A high-performance, multi-modal creative engine for digital asset generation, cinematic video, code, and real-time voice assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
